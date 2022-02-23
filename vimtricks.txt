@@ -1,4 +1,5 @@
 Spell check suggested words: z=
+Find next instance of a thing: fTHING so fm to find next m.
 
-
+Plugins:
 Use easymotion to find a thing in the file: \jTHING
