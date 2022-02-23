@@ -1,1 +1,4 @@
 Spell check suggested words: z=
+
+
+Use easymotion to find a thing in the file: \jTHING
